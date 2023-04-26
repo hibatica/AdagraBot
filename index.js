@@ -1,0 +1,1 @@
+const mode = "test"; // "test" or "production"
